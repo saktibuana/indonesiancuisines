@@ -1,62 +1,179 @@
 {
-  "recipes": [
+  "cuisines": [
     {
       "name": "Nasi Goreng",
-      "ingredients": [
-        "Cooked rice",
-        "Shrimp",
-        "Chicken breast",
-        "Mixed vegetables",
-        "Onion",
-        "Garlic",
-        "Kecap manis",
-        "Soy sauce",
-        "Vegetable oil",
-        "Salt and pepper",
-        "Optional toppings: fried egg, sliced cucumber, chopped scallions"
-      ],
-      "instructions": [
-        "Heat vegetable oil in a large pan or wok over medium heat...",
-        "Add chopped onion and minced garlic, and sauté until fragrant...",
-        "Add diced chicken to the pan and cook until it turns golden brown...",
-        "Add shrimp and mixed vegetables, and stir-fry until cooked through...",
-        "Push the ingredients to one side of the pan and pour beaten eggs into the empty space...",
-        "Add cooked rice to the pan and stir well to combine with the other ingredients...",
-        "Season with kecap manis and soy sauce according to your taste...",
-        "Continue stir-frying for a few more minutes until the rice is heated through...",
-        "Remove from heat and serve hot...",
-        "Optionally, top with a fried egg, sliced cucumber, and chopped scallions..."
-      ]
+      "recipe": {
+        "ingredients": [
+          "Cooked rice",
+          "Shrimp",
+          "Chicken breast",
+          "Mixed vegetables",
+          "Onion",
+          "Garlic",
+          "Kecap manis",
+          "Soy sauce",
+          "Vegetable oil",
+          "Salt and pepper",
+          "Optional toppings: fried egg, sliced cucumber, chopped scallions"
+        ],
+        "instructions": [
+          "Heat vegetable oil in a large pan or wok over medium heat...",
+          "Add chopped onion and minced garlic, and sauté until fragrant...",
+          "Add diced chicken to the pan and cook until it turns golden brown...",
+          "Add shrimp and mixed vegetables, and stir-fry until cooked through...",
+          "Push the ingredients to one side of the pan and pour beaten eggs into the empty space...",
+          "Add cooked rice to the pan and stir well to combine with the other ingredients...",
+          "Season with kecap manis and soy sauce according to your taste...",
+          "Continue stir-frying for a few more minutes until the rice is heated through...",
+          "Remove from heat and serve hot...",
+          "Optionally, top with a fried egg, sliced cucumber, and chopped scallions..."
+        ]
+      }
     },
     {
       "name": "Rendang",
-      "ingredients": [
-        "Beef",
-        "Coconut milk",
-        "Shallots",
-        "Garlic",
-        "Galangal",
-        "Lemongrass stalk",
-        "Kaffir lime leaves",
-        "Tamarind paste",
-        "Ground turmeric",
-        "Ground coriander",
-        "Ground cumin",
-        "Chili paste or fresh chili",
-        "Salt and sugar",
-        "Vegetable oil"
-      ],
-      "instructions": [
-        "Heat vegetable oil in a large pot over medium heat...",
-        "Add chopped shallots, minced garlic, grated galangal, and bruised lemongrass...",
-        "Add the beef chunks to the pot and cook until browned on all sides...",
-        "In a separate bowl, mix together tamarind paste, ground turmeric, ground coriander, ground cumin, chili paste, salt, and sugar with a little water to form a paste...",
-        "Add the spice paste to the pot and stir well to coat the beef...",
-        "Pour in coconut milk, add kaffir lime leaves, and bring the mixture to a simmer...",
-        "Reduce the heat to low and let it simmer, covered, for several hours until the beef is tender and the sauce has thickened...",
-        "Adjust the seasoning with salt and sugar according to your taste...",
-        "Once the beef is tender and the sauce has thickened to your liking, remove from heat and serve hot with steamed rice..."
-      ]
+      "recipe": {
+        "ingredients": [
+          "Beef",
+          "Coconut milk",
+          "Shallots",
+          "Garlic",
+          "Galangal",
+          "Lemongrass stalk",
+          "Kaffir lime leaves",
+          "Tamarind paste",
+          "Ground turmeric",
+          "Ground coriander",
+          "Ground cumin",
+          "Chili paste or fresh chili",
+          "Salt and sugar",
+          "Vegetable oil"
+        ],
+        "instructions": [
+          "Heat vegetable oil in a large pot over medium heat...",
+          "Add chopped shallots, minced garlic, grated galangal, and bruised lemongrass...",
+          "Add the beef chunks to the pot and cook until browned on all sides...",
+          "In a separate bowl, mix together tamarind paste, ground turmeric, ground coriander, ground cumin, chili paste, salt, and sugar with a little water to form a paste...",
+          "Add the spice paste to the pot and stir well to coat the beef...",
+          "Pour in coconut milk, add kaffir lime leaves, and bring the mixture to a simmer...",
+          "Reduce the heat to low and let it simmer, covered, for several hours until the beef is tender and the sauce has thickened...",
+          "Adjust the seasoning with salt and sugar according to your taste...",
+          "Once the beef is tender and the sauce has thickened to your liking, remove from heat and serve hot with steamed rice..."
+        ]
+      }
+    },
+    {
+      "name": "Gado-Gado",
+      "recipe": {
+        "ingredients": [
+          "Assorted vegetables (cabbage, bean sprouts, green beans, carrots, etc.)",
+          "Fried tofu",
+          "Boiled potatoes",
+          "Hard-boiled eggs",
+          "Cucumber",
+          "Peanut sauce",
+          "Shrimp crackers"
+        ],
+        "instructions": [
+          "Boil or steam the vegetables until crisp-tender...",
+          "Arrange the boiled vegetables, fried tofu, boiled potatoes, hard-boiled eggs, and cucumber on a plate...",
+          "Pour peanut sauce over the vegetables and garnish with shrimp crackers...",
+          "Serve immediately and enjoy..."
+        ]
+      }
+    },
+    {
+      "name": "Sate Ayam",
+      "recipe": {
+        "ingredients": [
+          "Chicken breast",
+          "Soy sauce",
+          "Lime juice",
+          "Garlic",
+          "Ginger",
+          "Candlenuts",
+          "Coriander seeds",
+          "Turmeric powder",
+          "Brown sugar",
+          "Salt",
+          "Skewers"
+        ],
+        "instructions": [
+          "In a blender, combine soy sauce, lime juice, garlic, ginger, candlenuts, coriander seeds, turmeric powder, brown sugar, and salt...",
+          "Blend until you get a smooth marinade...",
+          "Cut chicken breast into small cubes and marinate in the sauce for at least 1 hour, or overnight in the refrigerator...",
+          "Thread the marinated chicken onto skewers...",
+          "Grill the skewers over medium heat, turning occasionally, until the chicken is cooked through and slightly charred...",
+          "Serve hot with peanut sauce and rice or as a side dish..."
+        ]
+      }
+    },
+    {
+      "name": "Soto Ayam",
+      "recipe": {
+        "ingredients": [
+          "Chicken",
+          "Chicken broth",
+          "Lemongrass",
+          "Kaffir lime leaves",
+          "Galangal",
+          "Garlic",
+          "Turmeric",
+          "Candlenuts",
+          "Coriander seeds",
+          "Cumin",
+          "White pepper",
+          "Salt",
+          "Cooked rice vermicelli",
+          "Bean sprouts",
+          "Fried shallots",
+          "Hard-boiled eggs",
+          "Lime wedges"
+        ],
+        "instructions": [
+          "Boil chicken in a pot of water until fully cooked...",
+          "Remove the chicken from the pot and let it cool. Shred the meat and set aside...",
+          "In the same pot, add chicken broth, lemongrass, kaffir lime leaves, galangal, garlic, turmeric, candlenuts, coriander seeds, cumin, white pepper, and salt...",
+          "Simmer the broth over low heat for about 30 minutes to let the flavors meld...",
+          "Strain the broth and discard the solids...",
+          "Prepare bowls with cooked rice vermicelli, shredded chicken, bean sprouts, fried shallots, and hard-boiled eggs...",
+          "Pour the hot broth over the ingredients in the bowls...",
+          "Garnish with a squeeze of lime juice and serve hot..."
+        ]
+      }
+    },
+    {
+      "name": "Bakso",
+      "recipe": {
+        "ingredients": [
+          "Beef or chicken",
+          "Tapioca flour",
+          "Garlic",
+          "Salt",
+          "White pepper",
+          "Egg",
+          "Ice cubes",
+          "Chicken broth",
+          "Egg noodles",
+          "Bok choy",
+          "Fried shallots",
+          "Sweet soy sauce",
+          "Chili sauce"
+        ],
+        "instructions": [
+          "In a food processor, blend together beef or chicken, garlic, salt, white pepper, and tapioca flour until well combined...",
+          "Add ice cubes and continue blending until the mixture becomes smooth and sticky...",
+          "Transfer the mixture to a bowl and mix in an egg...",
+          "Bring a pot of water to a boil...",
+          "Using wet hands, shape the meat mixture into small balls and drop them into the boiling water...",
+          "Cook the meatballs until they float to the surface, then remove them from the pot and set aside...",
+          "In another pot, bring chicken broth to a boil...",
+          "Cook egg noodles according to package instructions...",
+          "In serving bowls, add cooked egg noodles, bok choy, and meatballs...",
+          "Pour hot chicken broth over the ingredients...",
+          "Garnish with fried shallots and serve with sweet soy sauce and chili sauce..."
+        ]
+      }
     }
   ]
 }
