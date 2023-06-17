@@ -1,0 +1,62 @@
+{
+  "recipes": [
+    {
+      "name": "Nasi Goreng",
+      "ingredients": [
+        "Cooked rice",
+        "Shrimp",
+        "Chicken breast",
+        "Mixed vegetables",
+        "Onion",
+        "Garlic",
+        "Kecap manis",
+        "Soy sauce",
+        "Vegetable oil",
+        "Salt and pepper",
+        "Optional toppings: fried egg, sliced cucumber, chopped scallions"
+      ],
+      "instructions": [
+        "Heat vegetable oil in a large pan or wok over medium heat...",
+        "Add chopped onion and minced garlic, and sauté until fragrant...",
+        "Add diced chicken to the pan and cook until it turns golden brown...",
+        "Add shrimp and mixed vegetables, and stir-fry until cooked through...",
+        "Push the ingredients to one side of the pan and pour beaten eggs into the empty space...",
+        "Add cooked rice to the pan and stir well to combine with the other ingredients...",
+        "Season with kecap manis and soy sauce according to your taste...",
+        "Continue stir-frying for a few more minutes until the rice is heated through...",
+        "Remove from heat and serve hot...",
+        "Optionally, top with a fried egg, sliced cucumber, and chopped scallions..."
+      ]
+    },
+    {
+      "name": "Rendang",
+      "ingredients": [
+        "Beef",
+        "Coconut milk",
+        "Shallots",
+        "Garlic",
+        "Galangal",
+        "Lemongrass stalk",
+        "Kaffir lime leaves",
+        "Tamarind paste",
+        "Ground turmeric",
+        "Ground coriander",
+        "Ground cumin",
+        "Chili paste or fresh chili",
+        "Salt and sugar",
+        "Vegetable oil"
+      ],
+      "instructions": [
+        "Heat vegetable oil in a large pot over medium heat...",
+        "Add chopped shallots, minced garlic, grated galangal, and bruised lemongrass...",
+        "Add the beef chunks to the pot and cook until browned on all sides...",
+        "In a separate bowl, mix together tamarind paste, ground turmeric, ground coriander, ground cumin, chili paste, salt, and sugar with a little water to form a paste...",
+        "Add the spice paste to the pot and stir well to coat the beef...",
+        "Pour in coconut milk, add kaffir lime leaves, and bring the mixture to a simmer...",
+        "Reduce the heat to low and let it simmer, covered, for several hours until the beef is tender and the sauce has thickened...",
+        "Adjust the seasoning with salt and sugar according to your taste...",
+        "Once the beef is tender and the sauce has thickened to your liking, remove from heat and serve hot with steamed rice..."
+      ]
+    }
+  ]
+}
